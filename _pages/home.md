@@ -1,13 +1,11 @@
 ---
-title: "Allan Lab - Home"
+title: "Sapienza Phygital Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Sapienza Phygital Lab"
 sitemap: false
 permalink: /
 ---
 
-**News: Our group will move to the University of Munich (LMU)!** During the next two years, we will build up a "Lehrstuhl" (chair) at LMU and we will slowly move our instruments to Munich. We will be looking for PhD students, sub-group leaders, postdocs, engineering/technical stuff, and an administrative assistant. Please contact me if you are interested.
-More details to follow.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -54,25 +52,30 @@ More details to follow.
 </div>
 
 
-We are a dynamic research group, at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl) and soon at [LMU](https://www.physik.lmu.de/en/index.html). Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)). 
+We are a dynamic research group at the [Sapienza University of Rome](https://www.uniroma1.it/it/pagina-strutturale/home) focused on developing physical-digital **(phygital)** twins for medical applications.  Our lab is part of the Rome Technopole ecosystem, fostering collaboration between experts from various scientific and technological fields. 
 
+We aim to bridge the gap between research and industry by supporting the development of innovative ideas from businesses, researchers, and students.  We leverage the combined expertise of our members and the available instrumentation to nurture promising concepts, providing scientific guidance and access to the diverse resources within the Rome Technopole network.  
 
-We are very much looking forward to being part of [LMU physics](https://www.physik.lmu.de/en/index.html)! We will build up our instruments right in the center of the city, in the “Sommerfeldkeller”, where Sommerfeld himself worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials.
+Our goal is to maximize the utilization of Rome Technopole's expertise and infrastructure, making them accessible to all stakeholders in the region, including research institutions, educational bodies, and industry partners. By bringing together researchers with shared interests from different partner organizations, we promote synergy between academic knowledge, experimental capabilities, and industrial implementation.
 
-Our move to LMU will likely start around Summer 2024, depending on the state of renovations. 
+Our activities center around creating phygital twins that replicate anatomical areas of interest. These twins serve as powerful tools for planning and training medical-surgical procedures.  We achieve this through:
 
-Currently, we are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). 
+  Physical Models: 3D printing of biological tissues to create tangible representations of anatomical structures.
+  Digital Models: 3D modeling and simulation to provide detailed virtual representations.
 
-We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting and consolidator grants](https://erc.europa.eu/funding/starting-grants).
+These physical and digital models are interconnected in real-time, enabling operators to interact across different levels of perception, including virtual, augmented, and mixed reality.
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+Building on our existing know-how and prototypes, we are actively pursuing the development of commercial solutions for medical-surgical training and preoperative planning.  These solutions will be tailored to the specific needs of surgeons and patients, leveraging digital modeling to incorporate individual patient characteristics.
+
+Our mission is to establish a collaborative environment for the design, production, and integration of new physical devices and their corresponding digital twins into the industrial research and development process in the healthcare sector.  
+We are committed to expanding our work to other anatomical sections, following a unified scientific and technological strategy.(see [Research](research) for more details). 
 
 
 
 
 <figure class="fourth">
-  <img src="https://simonedileo.github.io/Sapienza-Phygital-Lab//images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_sapienza.jpg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_PNRR.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ITALIA_DOMANI.jpg" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Rome_technopole.jpg" style="width: 110px">
 </figure>
