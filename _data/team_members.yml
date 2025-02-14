@@ -1,5 +1,5 @@
 - name: Cinzia Daraio
-  photo: 
+  photo: dummy.png
   info: Full professor in Management Engineering @DIAG
   email: 
   number_educ: 1
@@ -7,7 +7,7 @@
 
 
 - name: Loredana Di Lucchio
-  photo: 
+  photo: dummy.png
   info: Full professor in Design @PDTA
   email: 
   number_educ: 1
@@ -16,16 +16,15 @@
 
 
 - name: Marilena Vendittelli
-  photo: 
+  photo: dummy.png
   info: Full professor in Automatic Control @DIAG
   email: 
   number_educ: 1
   education1: Main research area":" control theory aspects of robotic systems; applications to the medical and service robotics fields
 
 
-
 - name: Emanuele De Santis
-  photo: 
+  photo: dummy.png
   info: Assistant professor in Automatic Control @DIAG
   email: 
   number_educ: 1
@@ -33,7 +32,7 @@
 
 
 - name: Simone Di Leo
-  photo: 
+  photo: dummy.png
   info: Assistant professor in Management Engineering @DIAG
   email: 
   number_educ: 1
@@ -41,7 +40,7 @@
 
 
 - name: Angela Giambattista
-  photo: 
+  photo: dummy.png
   info: Assistant professor in Design @PDTA
   email: 
   number_educ: 1
@@ -49,16 +48,10 @@
 
 
 - name: Eugenio Oropallo
-  photo: 
+  photo: dummy.png
   info: Assistant professor in Management Engineering @DIAG
   email: 
   number_educ: 1
   education1: Main research area":" knowledge and technology management; supply chain management; circular economy
 
-- name: Eugenio Oropallo
-  photo: 
-  info: Phd in Design @DIAG
-  email: 
-  number_educ: 1
-  education1: Main research area":" knowledge and technology management; supply chain management; circular economy
 
