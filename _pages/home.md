@@ -34,7 +34,6 @@ permalink: /
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Logo_Rome_technopole.jpg" alt="Slide 4" />
         </div>
-        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -54,10 +53,12 @@ We aim to bridge the gap between research and industry by supporting the develop
 Our goal is to maximize the utilization of Rome Technopole's expertise and infrastructure, making them accessible to all stakeholders in the region, including research institutions, educational bodies, and industry partners. By bringing together researchers with shared interests from different partner organizations, we promote synergy between academic knowledge, experimental capabilities, and industrial implementation.
 
 Our activities center around creating phygital twins that replicate anatomical areas of interest. These twins serve as powerful tools for planning and training medical-surgical procedures.  We achieve this through:
+<ul>
+  <li>Physical Models: 3D printing of biological tissues to create tangible representations of anatomical structures.</li>
+  <li>Digital Models: 3D modeling and simulation to provide detailed virtual representations.</li>
 
-  Physical Models: 3D printing of biological tissues to create tangible representations of anatomical structures.
-  Digital Models: 3D modeling and simulation to provide detailed virtual representations.
-
+</ul>
+ 
 These physical and digital models are interconnected in real-time, enabling operators to interact across different levels of perception, including virtual, augmented, and mixed reality.
 
 Building on our existing know-how and prototypes, we are actively pursuing the development of commercial solutions for medical-surgical training and preoperative planning.  These solutions will be tailored to the specific needs of surgeons and patients, leveraging digital modeling to incorporate individual patient characteristics.
