@@ -1,57 +1,57 @@
 - name: Cinzia Daraio
-  photo: dummy.png
+  photo: cinziadaraio.jpg
   info: Full professor in Management Engineering @DIAG
   email: 
   number_educ: 1
-  education1: Main research area":" productivity and efficiency analysis; performance measurement; research policy; data quality and data integration
+  education1: Main research area | productivity and efficiency analysis; performance measurement; research policy; data quality and data integration
 
 
 - name: Loredana Di Lucchio
-  photo: dummy.png
+  photo: loredanadilucchio.png
   info: Full professor in Design @PDTA
   email: 
   number_educ: 1
-  education1: Main research area":"" Product and Service Design; Strategic Design; Design for systems and healthcare
+  education1: Main research area | Product and Service Design; Strategic Design; Design for systems and healthcare
 
 
 
 - name: Marilena Vendittelli
-  photo: dummy.png
+  photo: marilenavendittelli.jpg
   info: Full professor in Automatic Control @DIAG
   email: 
   number_educ: 1
-  education1: Main research area":" control theory aspects of robotic systems; applications to the medical and service robotics fields
+  education1: Main research area | control theory aspects of robotic systems; applications to the medical and service robotics fields
 
 
 - name: Emanuele De Santis
-  photo: dummy.png
+  photo: emanueledesantis.png
   info: Assistant professor in Automatic Control @DIAG
   email: 
   number_educ: 1
-  education1: Main research area":" simulation of deformable tissues; control systems for telecommunication networks; control systems for power grids and smartgrids
+  education1: Main research area | simulation of deformable tissues; control systems for telecommunication networks; control systems for power grids and smartgrids
 
 
 - name: Simone Di Leo
-  photo: dummy.png
+  photo: simonedileo.jpg
   info: Assistant professor in Management Engineering @DIAG
   email: 
   number_educ: 1
-  education1: Main research area":" productivity and efficiency analysis; performance of public services; data and information management
+  education1: Main research area | productivity and efficiency analysis; performance of public services; data and information management
 
 
 - name: Angela Giambattista
-  photo: dummy.png
+  photo: angelagiambattista.jpg
   info: Assistant professor in Design @PDTA
   email: 
   number_educ: 1
-  education1: Main research area":" Product Design; Design-Driven Innovation; Design High-tech Products for healthcare
+  education1: Main research area | Product Design; Design-Driven Innovation; Design High-tech Products for healthcare
 
 
 - name: Eugenio Oropallo
-  photo: dummy.png
+  photo: eugeniooropallo.jpg
   info: Assistant professor in Management Engineering @DIAG
   email: 
   number_educ: 1
-  education1: Main research area":" knowledge and technology management; supply chain management; circular economy
+  education1: Main research area | knowledge and technology management; supply chain management; circular economy
 
 
