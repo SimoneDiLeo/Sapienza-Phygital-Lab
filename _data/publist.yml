@@ -8,3 +8,32 @@
     display: I-RIM 3D Conference 2024
   highlight: 1
 
+- title: "An Integrated Environment for Medical Training and Procedure Planning in Virtual Reality"
+  image: I-RIM 2023.png
+  description: This study investigates virtual reality and haptic interfaces for simulated abdominal organ palpation, aiming to improve surgical training and planning.
+  authors: Luca Distefano, Anna Fumagalli, Giuliano Giampietro, Jamila Naffati, Catia Romaniello, Vincenzo Maria Vitale, Marilena Vendittelli
+  link:
+    url: https://doi.org/10.5281/zenodo.10722621
+    display: I-RIM 3D Conference 202
+  highlight: 1
+
+
+- title: "Neurosurgery Training Tool. Design as Facilitator Between Disciplines for the Improvement of Medical Devices"
+  image: 
+  description: Technological advancements in medicine necessitate a multidisciplinary design approach to optimize treatments and diagnostics. This paper presents a research project focused on developing an anatomical spinal column training system for medical students and junior neurosurgeons.
+  authors: Angela Giambattista
+  link:
+    url: https://doi.org/10.1007/978-3-030-86596-2_17
+    display: UNIDCOM/IADE International Conference Senses & Sensibility
+  highlight: 0
+
+
+- title: "Ntt_neurosurgery training tool. Improving medical training through reality-based models"
+  image: 
+  description: The NTT project develops a neurosurgical training system, simulating the spinal column, to address cadaver scarcity and reduce training costs for medical students and junior neurosurgeons.
+  authors: Loredana Di Lucchio, Angela Giambattista
+  link:
+    url: https://iris.uniroma1.it/handle/11573/1481994
+    display: 100 anni dal Bauhaus. Le prospettive della ricerca di design
+  highlight: 0
+
