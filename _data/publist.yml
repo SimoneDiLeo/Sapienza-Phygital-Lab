@@ -1,10 +1,4 @@
 
-bold:
-- Emanuele de Santis
-- Marilena Vendittelli
-- Loredana Di Lucchio
-- Angela Giambattista
-
 - title: "Haptic interaction with virtual deformable objects"
   image: Haptic interaction.png
   description: This paper presents a VR surgical training system with real-time soft tissue simulation. It integrates finger tracking and haptic feedback, addressing hardware/software integration challenges for realistic tactile experiences.
